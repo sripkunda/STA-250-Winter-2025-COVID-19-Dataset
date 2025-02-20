@@ -30,7 +30,7 @@ The COVID-19 and community follows the same convention as the USAFacts COVID-19 
  - `mm-dd-yyyy_parks_percent_change_from_baseline`
  - `mm-dd-yyyy_grocery_and_pharmacy_percent_change_from_baseline`
 
-The percent change from baseline in the specified categories on the specified day. For more information, there is a detailed data overview on the [source website](https://www.google.com/covid19/mobility/).
+The percent change from baseline in the specified categories on the specified day. For more information, there is a detailed data overview on the [source website](https://support.google.com/covid19-mobility/answer/9824897?hl=en&ref_topic=9822927&sjid=8831651663638123175-NC).
 
 #### Population Data
 

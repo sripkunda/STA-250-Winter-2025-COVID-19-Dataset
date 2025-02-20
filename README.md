@@ -4,7 +4,7 @@ COVID-19 dataset with daily confirmed cases, deaths, and other covariates. The D
 
 ## Usage
 
-The dataset is the `STA_250_COVID19_Dataset` found in the repository. To use it, you can clone or download the repository and use a programming language or spreadsheet editor to manipulate the data.
+The dataset is the `STA_250_COVID19_Dataset.csv` found in the repository. To use it, you can clone or download the repository and use a programming language or spreadsheet editor to manipulate the data.
 
 ### County FIPS Codes
 

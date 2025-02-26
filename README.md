@@ -18,7 +18,7 @@ The COVID-19 and community follows the same convention as the USAFacts COVID-19 
 
 #### COVID-19 Data
 
-- `mm-dd-yyyy` - The number of confirmed cases of COVID-19 in a county on the specified day 
+- `mm/dd/yyyy` - The number of confirmed cases of COVID-19 in a county on the specified day 
 - `mm-dd-yyyy_deaths` - The number of COVID-19 related deaths in a county on the specified day
 
 #### Community Data 
